@@ -1,62 +1,89 @@
-# Hi, I'm Diego Díaz Iturbe 👋
+# Diego Díaz Iturbe
 
-**Data Analytics | Automation | Cloud | GIS**
+### Data Analytics · Automation · Cloud · GIS
 
-I enjoy solving operational problems by combining data analytics, automation, and visualization into practical decision-support tools.
+I enjoy solving operational problems by combining data analytics, automation, and visualization into practical decision-support systems.
 
 My work focuses on transforming complex operational data into solutions that improve planning, reporting, and decision-making across operations and business environments.
 
----
+<br>
 
-## 📌 Featured Repositories
+## Selected Work
 
-| Project | Description |
-|---------|-------------|
-| 📊 **Store Performance Reporting Platform** | Transforms Tableau exports into executive-ready KPI reports, dashboards, and automated business insights. |
-| 📦 **POS Option Count Automation** | Automates retail inventory verification through barcode reconciliation, exception reporting, and Excel automation. |
-| 🏬 **Retail Digital Twin** | Interactive Unity-based digital twin for merchandising, planning, and operational visualization. |
-| 🌡 **HVAC Analytics Capstone** | Award-winning analytics platform for building performance monitoring and predictive insights using machine learning. |
+### Store Performance Reporting Platform
 
----
+Transforms Tableau exports into executive-ready KPI reports, interactive dashboards, and automated business insights.
 
-## 🛠 Technologies
+*Python · Streamlit · Pandas · HTML · Tableau*
 
-### Programming & Data
+<br>
 
-Python • SQL • Pandas • Streamlit
+### POS Option Count Automation
 
-### Analytics & Visualization
+Automates retail inventory verification through barcode reconciliation, exception reporting, and Excel automation.
 
-Tableau • Power BI
+*Python · Streamlit · Pandas · Excel*
 
-### Development
+<br>
 
-Git • GitHub • Unity
+### Retail Digital Twin
 
-### Currently Expanding Expertise
+Interactive Unity-based digital twin designed for merchandising, operational planning, and retail visualization.
 
-Azure • ArcGIS • Data Engineering
+*Unity · C# · Python · Data Integration*
 
----
+<br>
 
-## 🎯 Current Focus
+### HVAC Analytics Capstone
 
-- Building practical decision-support systems
+Award-winning analytics platform developed with Langara College and Prism Engineering for building performance monitoring and predictive analytics.
+
+*Python · Machine Learning · Tableau*
+
+<br>
+
+## Technology
+
+**Programming & Data**
+
+Python · SQL · Pandas · Streamlit
+
+**Analytics & Visualization**
+
+Tableau · Power BI
+
+**Development**
+
+Git · GitHub · Unity
+
+**Currently Expanding Expertise**
+
+Azure · ArcGIS · Data Engineering
+
+<br>
+
+## Current Focus
+
+- Decision-Support Systems
+- Operational Analytics
 - Azure Data Engineering
 - GIS & Spatial Analytics
-- Operational Analytics
 - Process Automation
 
----
+<br>
 
-## 🌎 Connect
+## Connect
 
-🌐 **Portfolio**  
+**Portfolio**
+
 https://impactomex.wixsite.com/eportfolio
 
-💼 **LinkedIn**  
+**LinkedIn**
+
 https://www.linkedin.com/in/YOUR-LINKEDIN
+
+<br>
 
 ---
 
-*"Turning operational data into practical solutions through analytics, automation, and visualization."*
+*Transforming operational data into practical solutions through analytics, automation, and visualization.*
