@@ -80,7 +80,7 @@ https://impactomex.wixsite.com/eportfolio
 
 **LinkedIn**
 
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/diaziturbe
 
 <br>
 
